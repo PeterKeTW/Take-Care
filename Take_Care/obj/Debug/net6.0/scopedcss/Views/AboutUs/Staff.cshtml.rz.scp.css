@@ -1,0 +1,42 @@
+body[b-j1r3dcu35h] {
+}
+
+.custom-container[b-j1r3dcu35h] {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.col-3[b-j1r3dcu35h] {
+    margin: 30px 5px;
+}
+
+.card-img-top[b-j1r3dcu35h] {
+    width: 100%;
+}
+
+.button-container[b-j1r3dcu35h] {
+    text-align: center;
+    position: relative;
+}
+
+    .button-container button[b-j1r3dcu35h] {
+        position: relative;
+        top: 30px;
+        width: 100px;
+        /*background-color: burlywood;*/
+        background-color: transparent;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 0 10px;
+    }
+
+        .button-container button:hover[b-j1r3dcu35h] {
+            background-color: burlywood;
+            cursor: pointer;
+        }
+
+        .button-container button:focus[b-j1r3dcu35h] {
+            background-color: burlywood;
+            
+        }

@@ -1,0 +1,131 @@
+.mynav[b-7rcurt581k] {
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: burlywood;
+}
+
+a[b-7rcurt581k] {
+    text-decoration: none;
+}
+
+a:visited[b-7rcurt581k]{
+    color:black;
+}
+
+#healty[b-7rcurt581k] {
+    display: block;
+}
+
+ #healty a:hover[b-7rcurt581k]{
+     background-color:mistyrose;
+ }
+
+#government a:hover[b-7rcurt581k]{
+    background-color:mistyrose;
+}
+
+.myright[b-7rcurt581k] {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+
+/* Style the tab */
+.tab[b-7rcurt581k] {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #b4aaa1;
+}
+
+    /* Style the buttons inside the tab */
+    .tab button[b-7rcurt581k] {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+    }
+
+        /* Change background color of buttons on hover */
+        .tab button:hover[b-7rcurt581k] {
+            background-color: #ddd;
+        }
+
+        /* Create an active/current tablink class */
+        .tab button.active[b-7rcurt581k] {
+            background-color: #ccc;
+        }
+
+/* Style the tab content */
+.tabcontent[b-7rcurt581k] {
+    display: none;
+    padding: 6px 12px;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect-b-7rcurt581k 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeEffect-b-7rcurt581k {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+html[b-7rcurt581k] {
+    height: 100%;
+}
+
+body[b-7rcurt581k] {
+    margin: 0;
+    padding-right: 0;
+    min-height: 100%;
+    display: grid;
+    /*使用grid排版*/
+    grid-template-rows: 1fr auto;
+    /*將上半部設置為一個單位，剩下的部分設為自動高度*/
+}
+
+.conn[b-7rcurt581k] {
+    font-weight: bolder;
+    color: brown;
+}
+
+.myfooter[b-7rcurt581k] {
+    font-weight: bolder;
+}
+
+.myfont[b-7rcurt581k] {
+    color: azure;
+}
+
+.box[b-7rcurt581k] {
+    width: 300px;
+    height: 150px;
+}
+
+.myvideo h3[b-7rcurt581k]:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 6em;
+    background-color: darkolivegreen;
+    margin-bottom: 40px;
+    font-weight: 700
+}

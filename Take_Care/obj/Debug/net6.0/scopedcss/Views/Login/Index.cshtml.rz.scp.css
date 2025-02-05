@@ -1,0 +1,150 @@
+
+.logintitle[b-tnfl4x9323] {
+    text-align: center;
+    font-size: 50px;
+}
+
+.signupBox[b-tnfl4x9323] {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 800px;
+    background: #fff;
+    border: 1px solid #6b00d5;
+    border-radius: 20px;
+}
+
+.leftBox[b-tnfl4x9323] {
+    padding: 50px 50px 40px 50px;
+    background-color: rgba(146, 181, 216, 0.6);
+    opacity: 1;
+    flex-grow: 1;
+    color: black;
+    border-radius: 20px 0 0 20px;
+}
+
+.rightBox[b-tnfl4x9323] {
+    background-color: #1199b7;
+    padding: 50px;
+    flex-grow: 1;
+    border-radius: 0 20px 20px 0;
+}
+
+.inputBox[b-tnfl4x9323] {
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid black;
+    outline: none;
+    color: black;
+    font-size: 30px;
+    background: transparent;
+    border-radius: 10px;
+}
+
+[b-tnfl4x9323]::placeholder {
+    color: black;
+}
+
+input[type=checkbox][b-tnfl4x9323] {
+    margin-top: 30px;
+}
+
+.leftBox label[b-tnfl4x9323] {
+    font-size: 30px;
+}
+
+.leftBox button[b-tnfl4x9323] {
+    width: 100%;
+    background: #fff;
+    padding: 10px;
+    border: 0;
+    outline: none;
+    font-size: 24px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leftBox button:hover[b-tnfl4x9323] {
+    font-weight: 600;
+    background: #000;
+    color: #fff;
+}
+
+.leftBox button span[b-tnfl4x9323] {
+    display: inline-block;
+    width: 0px;
+    overflow: hidden;
+    transition: width 0.5s;
+}
+
+.leftBox button:hover span[b-tnfl4x9323] {
+    width: 40px;
+}
+
+.rightBox a[b-tnfl4x9323] {
+    display: block;
+    width: 100%;
+    margin: 20px 0;
+    min-width: 250px;
+    color: #fff;
+    font-size: 24px;
+    padding: 20px 30px;
+    text-decoration: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.rightBox a i[b-tnfl4x9323] {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.fb_Link[b-tnfl4x9323] {
+    background: #1778f2;
+}
+
+.tw_Link[b-tnfl4x9323] {
+    background: black;
+}
+
+.g_Link[b-tnfl4x9323] {
+    background: #ea4335;
+}
+
+.login_msg[b-tnfl4x9323] {
+    color: #fff;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.login_msg a[b-tnfl4x9323] {
+    color: #ea4335;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.login_msg a:hover[b-tnfl4x9323] {
+    text-decoration: underline;
+}
+
+.rightBox a[b-tnfl4x9323] {
+    --c: goldenrod;
+}
+
+
+.rightBox a:hover[b-tnfl4x9323] {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.4);
+}
+
+#GOOGLE_login[b-tnfl4x9323] {
+    position: fixed;
+    top: 40%;
+    right: 40%;
+}

@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Take_Care
+build_property.RootNamespace = Take_Care
+build_property.ProjectDir = D:\01. 大專Fight\大專\Take_Care\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\01. 大專Fight\大專\Take_Care
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcX0hlYWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/_SideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcX1NpZGVCYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/_TabPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcX1RhYlBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/_TabPartial_cp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcX1RhYlBhcnRpYWxfY3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/_TabPartial_cs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcX1RhYlBhcnRpYWxfY3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Fourpack/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cnBhY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Login/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_SideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_TabPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYWJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_TabPartial_cp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYWJQYXJ0aWFsX2NwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_TabPartial_cs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYWJQYXJ0aWFsX2NzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX0hlYWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/_SideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX1NpZGVCYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/_TabPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX1RhYlBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/_TabPartial_cp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX1RhYlBhcnRpYWxfY3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/_TabPartial_si.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX1RhYlBhcnRpYWxfc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/01. 大專Fight/大專/Take_Care/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yrwj6gnzla
+
+[D:/01. 大專Fight/大專/Take_Care/Views/AboutUs/Staff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xTdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-j1r3dcu35h
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Application/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tg1e9ve41k
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lrto5cduxt
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/CsProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcQ3NQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-5jy5ny8yw2
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/CsRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcQ3NSZWNvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q4qy4i771b
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/CsTrialBalance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcQ3NUcmlhbEJhbGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2dzs91vyaw
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcTm90aWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-9ba3vovbcr
+
+[D:/01. 大專Fight/大專/Take_Care/Views/CsMember/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3NNZW1iZXJcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-n9jhx1e9ix
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Fourpacks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cnBhY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-wp208afw1j
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tnfl4x9323
+
+[D:/01. 大專Fight/大專/Take_Care/Views/MainPage/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7rcurt581k
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7u0ebiyhwu
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Shared/_PartialName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTmFtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-xzge1mbsyb
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ilv9gprkoq
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iny3e0x2wa
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcTm90aWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-mphs2cvw7b
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/Record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcUmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-px3nvkb0zi
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/Schedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcU2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eebpgivjfc
+
+[D:/01. 大專Fight/大專/Take_Care/Views/Staff/SelfIntro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcU2VsZkludHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-07br9it34m
+
+[D:/01. 大專Fight/大專/Take_Care/Views/TrialBalance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxCYWxhbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-27p84zub52

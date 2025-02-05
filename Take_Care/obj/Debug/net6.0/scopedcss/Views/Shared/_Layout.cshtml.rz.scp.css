@@ -1,0 +1,192 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7u0ebiyhwu] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+navbar-brand[b-7u0ebiyhwu] {
+    text-align: center;
+}
+
+.myhover a:hover[b-7u0ebiyhwu] {
+    background-color: darksalmon;
+}
+
+.dropdown-menu[b-7u0ebiyhwu] {
+    background-color:snow;
+}
+
+a[b-7u0ebiyhwu]{
+    color: black;
+    text-decoration: none;
+}
+
+.btn-primary[b-7u0ebiyhwu] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7u0ebiyhwu], .nav-pills .show > .nav-link[b-7u0ebiyhwu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7u0ebiyhwu] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7u0ebiyhwu] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7u0ebiyhwu] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7u0ebiyhwu] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7u0ebiyhwu] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.mynav[b-7u0ebiyhwu] {
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: burlywood;
+}
+
+html[b-7u0ebiyhwu] {
+    height: 100%;
+}
+
+body[b-7u0ebiyhwu] {
+    margin: 0;
+    padding-right: 0;
+    min-height: 100%;
+    display: grid;
+    /*使用grid排版*/
+    grid-template-rows: 1fr auto;
+    /*將上半部設置為一個單位，剩下的部分設為自動高度*/
+}
+h3[b-7u0ebiyhwu]{
+    font-size:30px;
+}
+
+h6[b-7u0ebiyhwu] {
+    font-size: 27px;
+}
+
+h5[b-7u0ebiyhwu] {
+    font-size: 25px;
+}
+
+p[b-7u0ebiyhwu] {
+    font-size: 23px;
+}
+
+li[b-7u0ebiyhwu] {
+    font-size: 23px;
+}
+div[b-7u0ebiyhwu] {
+    font-size: 23px;
+}
+
+h6 a[b-7u0ebiyhwu] {
+    font-size: 23px;
+}
+.tab button[b-7u0ebiyhwu] {
+    font-size: 23px;
+}
+
+body[b-7u0ebiyhwu] {
+}
+
+.chatbox[b-7u0ebiyhwu] {
+    display: none;
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+}
+
+.p-1 .col-1[b-7u0ebiyhwu] {
+    font-size: 24px;
+}
+
+#messagesList[b-7u0ebiyhwu] {
+    resize: none;
+}
+
+/* CSS */
+.button-45[b-7u0ebiyhwu] {
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    background-color: #FFE7E7;
+    background-position: 0 0;
+    border: 1px solid #FEE0E0;
+    border-radius: 11px;
+    box-sizing: border-box;
+    color: #D33A2C;
+    cursor: pointer;
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 33.4929px;
+    list-style: outside url(https://www.smashingmagazine.com/images/bullet.svg) none;
+    padding: 2px 12px;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: none;
+    text-underline-offset: 1px;
+    transition: border .2s ease-in-out, box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    word-break: break-word;
+}
+
+.button-45:active[b-7u0ebiyhwu],
+.button-45:hover[b-7u0ebiyhwu],
+.button-45:focus[b-7u0ebiyhwu] {
+    outline: 0;
+}
+
+
+.button-45:active[b-7u0ebiyhwu] {
+    background-color: #D33A2C;
+    box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+    color: #FFFFFF;
+}
+
+.button-45:hover[b-7u0ebiyhwu] {
+    background-color: #FFE3E3;
+    border-color: #FAA4A4;
+}
+
+.button-45:active:hover[b-7u0ebiyhwu],
+.button-45:focus:hover[b-7u0ebiyhwu],
+.button-45:focus[b-7u0ebiyhwu] {
+    background-color: #D33A2C;
+    box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+    color: #FFFFFF;
+}
+.btn-outline-warning[b-7u0ebiyhwu]{
+    background-color: rgba(255,193,7,0.3);
+    color: black;
+}
+

@@ -1,0 +1,1665 @@
+C:\大專\Take_Care\bin\Debug\net6.0\appsettings.Development.json
+C:\大專\Take_Care\bin\Debug\net6.0\appsettings.json
+C:\大專\Take_Care\bin\Debug\net6.0\bundleconfig.json
+C:\大專\Take_Care\bin\Debug\net6.0\libman.json
+C:\大專\Take_Care\bin\Debug\net6.0\Secrets\client_secret.json
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.staticwebassets.runtime.json
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.exe
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.deps.json
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.runtimeconfig.json
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Take_Care.pdb
+C:\大專\Take_Care\bin\Debug\net6.0\Azure.Core.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Azure.Identity.dll
+C:\大專\Take_Care\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ECPay.Payment.Integration.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Gmail.v1.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Humanizer.dll
+C:\大專\Take_Care\bin\Debug\net6.0\MessagePack.dll
+C:\大專\Take_Care\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\大專\Take_Care\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\大專\Take_Care\bin\Debug\net6.0\MimeKit.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\大專\Take_Care\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Common.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\大專\Take_Care\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.CodeDom.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Memory.Data.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Text.Json.dll
+C:\大專\Take_Care\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\大專\Take_Care\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\大專\Take_Care\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.AssemblyReference.cache
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfoInputs.cache
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfo.cs
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CoreCompileInputs.cache
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.MvcApplicationPartsAssemblyInfo.cache
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cache
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cs
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Take_Care.props
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Take_Care.props
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Take_Care.props
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.pack.json
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.build.json
+C:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.development.json
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Staff.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Application\index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\ChangePassword.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsProfile.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsRecord.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Notification.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Profile.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Fourpacks\Index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\MainPage\index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_PartialName.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\ChangePassword.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Notification.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Record.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Schedule.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\SelfIntro.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\TrialBalance\index.cshtml.rz.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\bundle\Take_Care.styles.css
+C:\大專\Take_Care\obj\Debug\net6.0\scopedcss\projectbundle\Take_Care.bundle.scp.css
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CopyComplete
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.dll
+C:\大專\Take_Care\obj\Debug\net6.0\refint\Take_Care.dll
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.pdb
+C:\大專\Take_Care\obj\Debug\net6.0\Take_Care.genruntimeconfig.cache
+C:\大專\Take_Care\obj\Debug\net6.0\ref\Take_Care.dll
+E:\大專\Take_Care\bin\Debug\net6.0\appsettings.Development.json
+E:\大專\Take_Care\bin\Debug\net6.0\appsettings.json
+E:\大專\Take_Care\bin\Debug\net6.0\bundleconfig.json
+E:\大專\Take_Care\bin\Debug\net6.0\libman.json
+E:\大專\Take_Care\bin\Debug\net6.0\Secrets\client_secret.json
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.staticwebassets.runtime.json
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.exe
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.deps.json
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.runtimeconfig.json
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Take_Care.pdb
+E:\大專\Take_Care\bin\Debug\net6.0\Azure.Core.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Azure.Identity.dll
+E:\大專\Take_Care\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ECPay.Payment.Integration.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Gmail.v1.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Humanizer.dll
+E:\大專\Take_Care\bin\Debug\net6.0\MessagePack.dll
+E:\大專\Take_Care\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\大專\Take_Care\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\大專\Take_Care\bin\Debug\net6.0\MimeKit.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\大專\Take_Care\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Common.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\大專\Take_Care\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.CodeDom.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Memory.Data.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Text.Json.dll
+E:\大專\Take_Care\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\大專\Take_Care\bin\Debug\net6.0\XAct.Core.PCL.dll
+E:\大專\Take_Care\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.AssemblyReference.cache
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.GeneratedMSBuildEditorConfig.editorconfig
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfoInputs.cache
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfo.cs
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CoreCompileInputs.cache
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.MvcApplicationPartsAssemblyInfo.cache
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cache
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cs
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Take_Care.props
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Take_Care.props
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Take_Care.props
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.pack.json
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.build.json
+E:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.development.json
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Staff.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Application\index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\ChangePassword.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsProfile.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsRecord.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Notification.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Profile.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Fourpacks\Index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\MainPage\index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_PartialName.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\ChangePassword.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Notification.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Record.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Schedule.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\SelfIntro.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\TrialBalance\index.cshtml.rz.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\bundle\Take_Care.styles.css
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\projectbundle\Take_Care.bundle.scp.css
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CopyComplete
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.dll
+E:\大專\Take_Care\obj\Debug\net6.0\refint\Take_Care.dll
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.pdb
+E:\大專\Take_Care\obj\Debug\net6.0\Take_Care.genruntimeconfig.cache
+E:\大專\Take_Care\obj\Debug\net6.0\ref\Take_Care.dll
+F:\大專\Take_Care\bin\Debug\net6.0\appsettings.Development.json
+F:\大專\Take_Care\bin\Debug\net6.0\appsettings.json
+F:\大專\Take_Care\bin\Debug\net6.0\bundleconfig.json
+F:\大專\Take_Care\bin\Debug\net6.0\libman.json
+F:\大專\Take_Care\bin\Debug\net6.0\Secrets\client_secret.json
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.staticwebassets.runtime.json
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.exe
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.deps.json
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.runtimeconfig.json
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Take_Care.pdb
+F:\大專\Take_Care\bin\Debug\net6.0\Azure.Core.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Azure.Identity.dll
+F:\大專\Take_Care\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ECPay.Payment.Integration.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Core.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Gmail.v1.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Humanizer.dll
+F:\大專\Take_Care\bin\Debug\net6.0\MessagePack.dll
+F:\大專\Take_Care\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\大專\Take_Care\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\大專\Take_Care\bin\Debug\net6.0\MimeKit.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\大專\Take_Care\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Common.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\大專\Take_Care\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.CodeDom.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Formats.Asn1.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Memory.Data.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Text.Json.dll
+F:\大專\Take_Care\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\大專\Take_Care\bin\Debug\net6.0\XAct.Core.PCL.dll
+F:\大專\Take_Care\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.AssemblyReference.cache
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.GeneratedMSBuildEditorConfig.editorconfig
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfoInputs.cache
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfo.cs
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CoreCompileInputs.cache
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.MvcApplicationPartsAssemblyInfo.cache
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cache
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cs
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Take_Care.props
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Take_Care.props
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Take_Care.props
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.pack.json
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.build.json
+F:\大專\Take_Care\obj\Debug\net6.0\staticwebassets.development.json
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Staff.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Application\index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\ChangePassword.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsProfile.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsRecord.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Notification.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Profile.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Fourpacks\Index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\MainPage\index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_PartialName.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\ChangePassword.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Notification.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Record.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Schedule.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\SelfIntro.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\TrialBalance\index.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\bundle\Take_Care.styles.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\projectbundle\Take_Care.bundle.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CopyComplete
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.dll
+F:\大專\Take_Care\obj\Debug\net6.0\refint\Take_Care.dll
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.pdb
+F:\大專\Take_Care\obj\Debug\net6.0\Take_Care.genruntimeconfig.cache
+F:\大專\Take_Care\obj\Debug\net6.0\ref\Take_Care.dll
+E:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsTrialBalance.cshtml.rz.scp.css
+F:\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsTrialBalance.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\bundleconfig.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\libman.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Secrets\client_secret.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.staticwebassets.runtime.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.exe
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.deps.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.runtimeconfig.json
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Take_Care.pdb
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ECPay.Payment.Integration.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Gmail.v1.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\MessagePack.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfo.cs
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Take_Care.props
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Take_Care.props
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Take_Care.props
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Staff.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Application\index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\ChangePassword.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsProfile.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsRecord.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsTrialBalance.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Notification.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Profile.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Fourpacks\Index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\MainPage\index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_PartialName.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\ChangePassword.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Notification.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Record.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Schedule.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\SelfIntro.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\TrialBalance\index.cshtml.rz.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\bundle\Take_Care.styles.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\scopedcss\projectbundle\Take_Care.bundle.scp.css
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CopyComplete
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.dll
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\refint\Take_Care.dll
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.pdb
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\Take_Care.genruntimeconfig.cache
+C:\Users\user\Desktop\大專\Take_Care\obj\Debug\net6.0\ref\Take_Care.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\appsettings.Development.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\appsettings.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\bundleconfig.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\libman.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Secrets\client_secret.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.staticwebassets.runtime.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.exe
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.deps.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.runtimeconfig.json
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Take_Care.pdb
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Azure.Core.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Azure.Identity.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ECPay.Payment.Integration.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Google.Apis.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Google.Apis.Gmail.v1.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Humanizer.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\MessagePack.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\MimeKit.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Common.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.CodeDom.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Memory.Data.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Text.Json.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\XAct.Core.PCL.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.AssemblyReference.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfoInputs.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.AssemblyInfo.cs
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CoreCompileInputs.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.MvcApplicationPartsAssemblyInfo.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.RazorAssemblyInfo.cs
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.build.Take_Care.props
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Take_Care.props
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Take_Care.props
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets.pack.json
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets.build.json
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\staticwebassets.development.json
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\AboutUs\Staff.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Application\index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\ChangePassword.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsProfile.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsRecord.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\CsTrialBalance.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Notification.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\CsMember\Profile.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Fourpacks\Index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\MainPage\index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Shared\_PartialName.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\ChangePassword.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Notification.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Record.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\Schedule.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\Staff\SelfIntro.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\Views\TrialBalance\index.cshtml.rz.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\bundle\Take_Care.styles.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\scopedcss\projectbundle\Take_Care.bundle.scp.css
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.csproj.CopyComplete
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.dll
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\refint\Take_Care.dll
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.pdb
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\Take_Care.genruntimeconfig.cache
+D:\01. 大專Fight\大專\Take_Care\obj\Debug\net6.0\ref\Take_Care.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Web.Razor.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\01. 大專Fight\大專\Take_Care\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

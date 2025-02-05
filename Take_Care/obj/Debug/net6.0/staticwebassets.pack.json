@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Take_Care.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Take_Care.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\css\\SignUp.css",
+      "PackagePath": "staticwebassets\\css\\SignUp.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\AboutUs\\pic1.png",
+      "PackagePath": "staticwebassets\\img\\AboutUs\\pic1.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\AboutUs\\pic2.png",
+      "PackagePath": "staticwebassets\\img\\AboutUs\\pic2.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\AboutUs\\pic3.png",
+      "PackagePath": "staticwebassets\\img\\AboutUs\\pic3.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F01.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F01.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F02.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F02.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F03.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F03.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F04.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F04.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F05.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F05.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F06.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F06.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F07.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F07.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F08.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F08.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F09.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F09.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F10.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F10.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F11.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F11.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F12.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F12.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F13.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F13.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F14.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F14.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\F15.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\F15.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M01.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M01.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M02.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M02.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M03.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M03.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M04.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M04.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M05.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M05.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M06.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M06.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M07.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M07.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M08.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M08.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M09.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M09.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M10.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M10.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M11.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M11.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M12.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M12.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M13.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M13.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M14.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M14.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\Staff\\M15.png",
+      "PackagePath": "staticwebassets\\img\\Staff\\M15.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\employer\\employerimages.jpg",
+      "PackagePath": "staticwebassets\\img\\employer\\employerimages.jpg"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\employer\\大壯.jpg",
+      "PackagePath": "staticwebassets\\img\\employer\\大壯.jpg"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢中長期.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢中長期.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢中長期2.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢中長期2.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢圖片.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢圖片.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢圖片2.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢圖片2.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢圖片3.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢圖片3.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\四包錢照顧.png",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\四包錢照顧.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\fourpacks\\背景.jpg",
+      "PackagePath": "staticwebassets\\img\\fourpacks\\背景.jpg"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\img_Peter\\F1.png",
+      "PackagePath": "staticwebassets\\img\\img_Peter\\F1.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\img_Peter\\F2.png",
+      "PackagePath": "staticwebassets\\img\\img_Peter\\F2.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\img_Peter\\F3.png",
+      "PackagePath": "staticwebassets\\img\\img_Peter\\F3.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\img_Peter\\F4.png",
+      "PackagePath": "staticwebassets\\img\\img_Peter\\F4.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\img_Peter\\F5.png",
+      "PackagePath": "staticwebassets\\img\\img_Peter\\F5.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\Lovepik_com-402190198-old-man-hand-painted-cartoon.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\Lovepik_com-402190198-old-man-hand-painted-cartoon.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\Lovepik_com-611324897-Hand drawn cartoon Chongyang Festival home to visit the elderly.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\Lovepik_com-611324897-Hand drawn cartoon Chongyang Festival home to visit the elderly.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\S__51659131.jpg",
+      "PackagePath": "staticwebassets\\img\\mainpage\\S__51659131.jpg"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\apple3.jpg.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\apple3.jpg.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\logo.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\logo.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\tree.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\tree.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\—Pngtree—caring for the elderly cute_4208791.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\—Pngtree—caring for the elderly cute_4208791.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\—Pngtree—chongyang festival the elderly daisy_4207063.jpg",
+      "PackagePath": "staticwebassets\\img\\mainpage\\—Pngtree—chongyang festival the elderly daisy_4207063.jpg"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\—Pngtree—elderly image icon element cute_7246728.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\—Pngtree—elderly image icon element cute_7246728.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\四包.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\四包.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\四包錢.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\四包錢.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\img\\mainpage\\澆花.png",
+      "PackagePath": "staticwebassets\\img\\mainpage\\澆花.png"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\DataWithAPI.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\DataWithAPI.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\ECPay.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\ECPay.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\Prev&Next.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\Prev&Next.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\address.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\address.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\changeTabHref.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\changeTabHref.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\getaddress.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\getaddress.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\jquery.twzipcode.min.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\jquery.twzipcode.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\logout.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\logout.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\notification.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\notification.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\CsMember\\profile.js",
+      "PackagePath": "staticwebassets\\js\\CsMember\\profile.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\Layout.js",
+      "PackagePath": "staticwebassets\\js\\Layout.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\staff\\ForAPI.js",
+      "PackagePath": "staticwebassets\\js\\staff\\ForAPI.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\js\\tsukiyoJS\\SignUp.js",
+      "PackagePath": "staticwebassets\\js\\tsukiyoJS\\SignUp.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\01. 大專Fight\\大專\\Take_Care\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Take_Care.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Take_Care.props",
+      "PackagePath": "build\\Take_Care.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Take_Care.props",
+      "PackagePath": "buildMultiTargeting\\Take_Care.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Take_Care.props",
+      "PackagePath": "buildTransitive\\Take_Care.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

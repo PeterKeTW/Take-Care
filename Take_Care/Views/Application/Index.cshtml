@@ -1,0 +1,2274 @@
+﻿<div>
+    <div class="" style="display: flex; align-items: center;">
+        <button class=" click-btn btn-style" onclick="window.location.href = '/CsMember/CsRecord'"><span style="z-index:2">我的服務紀錄</span></button>
+        <h1 style="margin-bottom: 0; background-color: #DCD0C3; text-align: center; flex-grow: 1;font-weight:500">申請服務</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-3 row">
+            <div class="tab col-3 row" style="position:absolute;">
+                <a class="tablinks col-6 click-btn btn-styleTC"
+                   onclick="openCity(event, 'TC', 'TCDiv')">
+                    <span style="z-index: 2;">照顧及專業服務:</span>
+                </a>
+                <a class="tablinks col-6 click-btn btn-styleTAB"
+                   onclick="openCity(event, 'TAB', 'TABDiv')">
+                    <span style="z-index: 2;">喘息服務:</span>
+                </a>
+            </div>
+            <div style="height:42px; background-color: #C0C0C0;">
+
+            </div>
+
+            <div class="Title1 " style="height: 684px; background-color: #C0C0C0;">
+
+                <div id="TC" class="tabcontent" style="overflow-y:scroll;height: 684px; ">
+                    <!-- 放入服務資料 -->
+                </div>
+
+
+
+
+                <div id="TAB" class="tabcontent" style="display:none;">
+                    <!-- 放入TAB服務 -->
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-9">
+
+            <div class="Title row" style="background-color: #FFFBE9;">
+                <div class="col-1"></div>
+                <div class="cashandlevl col-4" style="text-align:center">
+                    <label for="">
+                        身分別:
+                        <select name="subject" id="CitizenshipstatusSelect" disabled>
+                            <!-- 放入身分資料 -->
+                        </select>
+                    </label>
+                </div>
+                <div class="col-2"></div>
+                <div class="cashandlevl col-4" style="text-align:center">
+                    <label for="">
+                        CMS等級:
+                        <select name="subject" id="SubsidyLevelsSelect" disabled>
+                            <!-- 放入CMS等級 -->
+                        </select>
+                    </label>
+                </div>
+                <div class="col-1"></div>
+            </div>
+
+
+
+            <div id="TCDiv" class="tabcontent Title1 row" style="background-color: #E0FBFB;">
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">日</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">一</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">二</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">三</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">四</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">五</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">六</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TCsetDay" id="TCDAY01" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY02" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY03" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY04" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY05" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY06" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY07" style="height:55px; background-color: #DCD0C3;">日期</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TCdayOK" id="TCID01" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID02" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID03" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID04" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID05" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID06" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID07" style="height:55px"></div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TCsetDay" id="TCDAY08" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY09" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY10" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY11" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY12" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY13" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TCsetDay" id="TCDAY14" style="height:55px; background-color: #DCD0C3;">日期</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TCdayOK" id="TCID08" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID09" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID10" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID11" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID12" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID13" style="height:55px"></div>
+                    <div class="col TCdayOK" id="TCID14" style="height:55px"></div>
+                </div>
+            </div>
+
+
+            <div id="TABDiv" class="tabcontentDiv Title1 row" style="display:none; background-color: #C4E1E1;">
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">日</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">一</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">二</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">三</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">四</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">五</div>
+                    <div class="col" style="height:55px; background-color: #DCD0C3;">六</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TABsetDay" id="TABDAY01" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY02" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY03" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY04" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY05" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY06" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY07" style="height:55px; background-color: #DCD0C3;">日期</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TABdayOK" id="TABID01" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID02" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID03" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID04" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID05" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID06" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID07" style="height:55px"></div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TABsetDay" id="TABDAY08" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY09" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY10" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY11" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY12" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY13" style="height:55px; background-color: #DCD0C3;">日期</div>
+                    <div class="col TABsetDay" id="TABDAY14" style="height:55px; background-color: #DCD0C3;">日期</div>
+                </div>
+                <div class="row" style="--bs-gutter-x: 0;">
+                    <div class="col TABdayOK" id="TABID08" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID09" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID10" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID11" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID12" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID13" style="height:55px"></div>
+                    <div class="col TABdayOK" id="TABID14" style="height:55px"></div>
+                </div>
+            </div>
+
+
+            <div class="Title row" style="background-color: #E0FBFB;">
+                <div>
+                    <h3 style="height:45px">照顧及專業服務:</h3>
+                </div>
+                <div>
+                    <div id="TCTotal" style="height:45px"></div>
+                    <div id="TCSevrvePrice" style="height:45px"></div>
+                    <div id="TCServeSelf" style="height:55px"></div>
+                </div>
+            </div>
+            <div class="Title1 row" style="background-color: #C4E1E1;">
+                <div style="height:45px">
+                    <h3>喘息服務</h3>
+                </div>
+                <div>
+                    <div id="TABTotal" style="height:45px"></div>
+                    <div id="TABSevrvePrice" style="height:45px"></div>
+                    <div id="TABServeSelf" style="height:45px"></div>
+                </div>
+            </div>
+
+
+            <div class="Title row" style="height:40px; background-color: #DCD0C3;">
+                <div class="col-3"></div>
+                <button id="allClear" class="col-2 click-btn btn-style" style="display: flex; justify-content: center; align-items: center;">
+                    <span style="z-index: 2;">清空</span>
+                </button>
+                <div class="col-2"></div>
+                <button id="allOK" class="col-2 click-btn btn-style" style="display: flex; justify-content: center; align-items: center;">
+                    <span style="z-index: 2;">確認</span>
+                </button>
+                <div class="col-3"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 選擇TC天數dialog -->
+<div id="TCserveDay1" title="選擇服務天數">
+    <div>
+        <label for="" id="ChoseTCServeDay">
+
+        </label>
+        <div class="row">
+            <div class="col-2"></div>
+            <button class="col-3 click-btn" id="TCserveDay1OK">確認</button>
+            <div class="col-2"></div>
+            <button class="col-3 click-btn" id="TCserveDay1NO">取消</button>
+            <div class="col-2"></div>
+        </div>
+    </div>
+</div>
+
+<!-- 選擇TAB天數dialog -->
+<div id="TABserveDay1" title="選擇服務天數">
+    <div>
+        <label for="" id="ChoseTABServeDay">
+
+        </label>
+        <div class="row">
+            <div class="col-2"></div>
+            <button class="col-3" id="TABserveDay1OK">確認</button>
+            <div class="col-2"></div>
+            <button class="col-3" id="TABserveDay1NO">取消</button>
+            <div class="col-2"></div>
+        </div>
+    </div>
+</div>
+
+
+<!-- 確認刪除Dialog -->
+<div id="askYN" title="你確定嗎?">
+    <div>你確定要刪除嗎?</div>
+</div>
+
+<!-- 點擊日期顯示已申請TC服務 -->
+<div id="TCserveOK1" title="照顧及專業服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TCserveOKName1">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TCserveOKDay1">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TCserveOKTime1">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TCserveOKWho1">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TCserveOK2" title="照顧及專業服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TCserveOKName2">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TCserveOKDay2">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TCserveOKTime2">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TCserveOKWho2">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TCserveOK3" title="照顧及專業服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TCserveOKName3">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TCserveOKDay3">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TCserveOKTime3">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TCserveOKWho3">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<!-- 點擊日期顯示已申請TAB服務 -->
+<div id="TABserveOK8" title="喘息服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TABserveOKName8">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TABserveOKDay8">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TABserveOKTime8">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TABserveOKWho8">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TABserveOK9" title="喘息服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TABserveOKName9">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TABserveOKDay9">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TABserveOKTime9">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TABserveOKWho9">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TABserveOK10" title="喘息服務已選擇的服務:">
+    <label for="">
+        服務項目:
+        <input style="display: block;" disabled type="text" id="TABserveOKName10">
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" disabled type="text" id="TABserveOKDay10">
+    </label>
+    <label for="">
+        服務時間:
+        <input style="display: block;" disabled type="text" id="TABserveOKTime10">
+    </label>
+    <label for="">
+        服務人員:
+        <input style="display: block;" disabled type="text" id="TABserveOKWho10">
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" disabled name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+
+
+<!-- 選好所需服務時間後申請的TC -->
+<div id="TCserveReady1" title="照顧及專業服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TCserveReadyName1" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TCserveReadyDay1">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TCserveReadyTime1">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TCserveReadyEmployees1">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TCserveReady2" title="照顧及專業服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TCserveReadyName2" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TCserveReadyDay2">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TCserveReadyTime2">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TCserveReadyEmployees2">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TCserveReady3" title="照顧及專業服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TCserveReadyName3" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TCserveReadyDay3">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TCserveReadyTime3">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TCserveReadyEmployees3">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<!-- 選好所需服務時間後申請的TAB -->
+<div id="TABserveReady8" title="喘息服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TABserveReadyName8" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TABserveReadyDay8">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TABserveReadyTime8">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TABserveReadyEmployees8">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TABserveReady9" title="喘息服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TABserveReadyName9" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TABserveReadyDay9">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TABserveReadyTime9">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TABserveReadyEmployees9">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+
+<div id="TABserveReady10" title="喘息服務申請選擇的服務:">
+    <label for="">
+        服務項目:
+        <textarea id="TABserveReadyName10" style="display: block; height: auto;" name="備註" cols="23"></textarea>
+    </label>
+    <label for="">
+        服務日期:
+        <input style="display: block;" type="text" id="TABserveReadyDay10">
+    </label>
+    <label for="">
+        服務時間:
+        <select style="display: block;" name="" id="TABserveReadyTime10">
+            <option value="01">上午1點</option>
+            <option value="02">上午2點</option>
+            <option value="03">上午3點</option>
+            <option value="04">上午4點</option>
+            <option value="05">上午5點</option>
+            <option value="06">上午6點</option>
+            <option value="07">上午7點</option>
+            <option value="08">上午8點</option>
+            <option value="09">上午9點</option>
+            <option value="10">上午10點</option>
+            <option value="11">上午11點</option>
+            <option value="12">上午12點</option>
+            <option value="13">下午1點</option>
+            <option value="14">下午2點</option>
+            <option value="15">下午3點</option>
+            <option value="16">下午4點</option>
+            <option value="17">下午5點</option>
+            <option value="18">下午6點</option>
+            <option value="19">下午7點</option>
+            <option value="20">下午8點</option>
+            <option value="21">下午9點</option>
+            <option value="22">下午10點</option>
+            <option value="23">下午11點</option>
+            <option value="24">下午12點</option>
+        </select>
+    </label>
+    <label for="">
+        服務人員:
+        <select style="display: block;" name="" id="TABserveReadyEmployees10">
+        </select>
+    </label>
+    <label for="">
+        備註:
+        <textarea style="display: block;" name="備註" cols="23" rows="1"></textarea>
+    </label>
+</div>
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+        crossorigin="anonymous"></script>
+
+
+
+
+<script>
+    var CitizenshipstatusData = []
+    var SubsidyLevelsData = []
+    var ServiceItemsData = []
+    var ServiceItemsDetailsData = []
+    var EmployeesData = []
+    var EmployersData = []
+    var PersonalInfoesData = []
+
+
+    var PutCase = []
+    var PutCaseItem = {}
+    var sessionItem = []
+
+    // 取得身分
+    var EmployerData = JSON.parse(sessionStorage.getItem("member"))
+    var WhoID = ""
+    // 等級
+    var WhoLevel = ""
+    // 身分別
+    var WhoBody = ""
+
+    // 給TC申請服務選項被選擇後填入的天數
+    var TCthe1 = 0;
+    // 給TAB申請服務選項被選擇後填入的天數
+    var TABthe1 = 0;
+
+    // 政府TC補助錢
+    var TCTotalMoney = 0
+    // 政府TAB補助錢
+    var TABTotalMoney = 0
+
+    // 找所選的服務名稱
+    var TCinputCheckName = ""
+    var TCinputCheckNameID = ""
+    var TABinputCheckName = ""
+    var TCinputCheckNameID = ""
+
+    // 多項服務名稱
+    var TCAllServeName = ""
+    var TABAllServeName = ""
+
+    // 服務日期
+    var TCChoseDay = ""
+    // 服務月
+    var month = ""
+    // 服務日
+    var day = ""
+
+    // 服務價格
+    var TCinputCheckNamePrice = 0
+    var TABinputCheckNamePrice = 0
+
+    // 服務總價
+    var TCAllPrice = 0
+    var TABAllPrice = 0
+
+    // 身分%數比
+    var percentage = 0
+
+    // 檢視的日期
+    var showDay = ""
+
+    // 檢視的時間
+    var showTime = ""
+
+    // ajax
+    $(function () {
+        $.when(
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/Citizenshipstatus",
+                url: "https://localhost:7036/api/Citizenshipstatus",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/SubsidyLevels",
+                url: "https://localhost:7036/api/SubsidyLevels",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/ServiceItems",
+                url: "https://localhost:7036/api/ServiceItems",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/ServiceItemsDetails",
+                url: "https://localhost:7036/api/ServiceItemsDetails",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/Employees",
+                url: "https://localhost:7036/api/Employees",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/cases",
+                url: "https://localhost:7036/api/cases",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/Employers",
+                url: "https://localhost:7036/api/Employers",
+                method: "GET",
+                dataType: "json"
+            }),
+            $.ajax({
+                //url: "https://take-care.azurewebsites.net/api/PersonalInfoes",
+                url: "https://localhost:7036/api/PersonalInfoes",
+                method: "GET",
+                dataType: "json"
+            })
+        )
+            .done(function (data1, data2, data3, data4, data5, data6, data7, data8) {
+                // 身分
+                CitizenshipstatusData = data1[0]
+                // 等級
+                SubsidyLevelsData = data2[0]
+                // 沒日照和家托的所有服務
+                ServiceItemsData = data3[0]
+                // 日照和家托服務
+                ServiceItemsDetailsData = data4[0]
+                // 工作人員
+                EmployeesData = data5[0]
+                // 案件
+                CasesData = data6[0]
+                // 案家
+                EmployersData = data7[0]
+                // 案主
+                PersonalInfoesData = data8[0]
+
+
+                console.log("身分 : ")
+                console.log(CitizenshipstatusData)
+                console.log("等級 : ")
+                console.log(SubsidyLevelsData)
+                console.log("沒日照和家托的所有服務 : ")
+                console.log(ServiceItemsData)
+                console.log("日照和家托服務 : ")
+                console.log(ServiceItemsDetailsData)
+                console.log("工作人員 : ")
+                console.log(EmployeesData)
+                console.log("案件 : ")
+                console.log(CasesData)
+                console.log("案家 : ")
+                console.log(EmployersData)
+                console.log("案主 : ")
+                console.log(PersonalInfoesData)
+
+
+
+                console.log("登入人資料ID")
+
+                for (let i = 0; i < EmployersData.length; i++) {
+                    if (EmployerData.memberName == EmployersData[i].fullName) {
+                        console.log(EmployersData[i].employerId)
+                        WhoID = EmployersData[i].employerId
+                    }
+                }
+
+                for (let i = 0; i < PersonalInfoesData.length; i++) {
+                    if (WhoID == PersonalInfoesData[i].employerId) {
+                        WhoLevel = PersonalInfoesData[i].welfareStatus
+                        WhoBody = PersonalInfoesData[i].longTermCareStatus
+                    }
+                }
+                console.log("登入人資料WhoLevel")
+                console.log(WhoLevel)
+                console.log("登入人資料WhoBody")
+                console.log(WhoBody)
+
+                // 將資料中的身分放入
+                for (let i = 0; i < CitizenshipstatusData.length; i++) {
+                    var id = i + 1
+                    var CitizenshipstatusCategory = CitizenshipstatusData[i].category;
+                    $("#CitizenshipstatusSelect").append(`<option value="${id}" id="CITOption${id}">${CitizenshipstatusCategory}</option>`)
+                }
+
+                // 比對身分放入
+                var BodyID = ""
+                for (let i = 0; i < CitizenshipstatusData.length; i++) {
+                    if (WhoBody.slice(0, 1) == CitizenshipstatusData[i].category.slice(0, 1)) {
+                        BodyID = CitizenshipstatusData[i].citizenshipstatuId
+                        percentage = CitizenshipstatusData[i].care
+                    }
+                }
+
+                $("#CitizenshipstatusSelect").val(BodyID)
+
+
+                // 身分Value
+                var CitizenshipstatusSelectVal = $(CitizenshipstatusSelect).val()
+                console.log("身分Value : " + CitizenshipstatusSelectVal)
+
+                // 將資料中的CMS等級放入
+                for (let i = 0; i < SubsidyLevelsData.length; i++) {
+                    var id = i + 1
+                    var val = i + 2
+                    var SubsidyLevelsLevel = SubsidyLevelsData[i].level;
+                    $("#SubsidyLevelsSelect").append(`<option value="${val}" id="CMSOption${id}">第${SubsidyLevelsLevel}級</option>`)
+                }
+
+                // 比對身分放入
+                var LevelID = ""
+                for (let i = 0; i < SubsidyLevelsData.length; i++) {
+                    if (WhoLevel.charAt(Math.floor(WhoLevel.length / 2)) == SubsidyLevelsData[i].level) {
+                        LevelID = SubsidyLevelsData[i].level
+                    }
+                }
+
+                $("#SubsidyLevelsSelect").val(LevelID)
+
+                // CMSValue
+                var SubsidyLevelsSelectVal = $(SubsidyLevelsSelect).val()
+                console.log("CMSValue : " + SubsidyLevelsSelectVal)
+
+                // 將資料中的沒日照和家托TC服務放入
+                for (let i = 0; i < ServiceItemsData.length; i++) {
+                    var id = ServiceItemsData[i].serviceCode
+                    var ServiceItemsName = ServiceItemsData[i].serviceName
+                    var val = ServiceItemsData[i].price
+                    if (ServiceItemsData[i].serviceCode.startsWith("TC")) {
+                        $("#TC").append(`<label class="check-box Block" style="display:block"><input value="${val}" class="inputCheck TCinputCheck" type="checkbox" id="${id}" /><span>${ServiceItemsName}</span></label>`)
+                    }
+                }
+
+                var uiuiui = 40
+                // 將資料中的日照和家托TC服務放入
+                for (let i = 0; i < ServiceItemsDetailsData.length; i++) {
+                    var id = uiuiui
+                    var ServiceItemsDetailsName = ServiceItemsDetailsData[i].serviceName
+                    var val = ServiceItemsDetailsData[i].price
+                    if (SubsidyLevelsSelectVal == ServiceItemsDetailsData[i].level) {
+                        uiuiui += 1
+                        $("#TC").append(`<label class="check-box Block" style="display:block"><input value="${val}" class="inputCheck TCinputCheck" type="checkbox" id="${id}" /><span>${ServiceItemsDetailsName}</span></label>`)
+
+                    }
+                }
+
+                // 將資料中的TAB服務放入
+                for (let i = 0; i < ServiceItemsData.length; i++) {
+                    var id = ServiceItemsData[i].serviceCode
+                    var ServiceItemsName = ServiceItemsData[i].serviceName
+                    var val = ServiceItemsData[i].price
+                    if (ServiceItemsData[i].serviceCode.startsWith("TAB")) {
+                        $("#TAB").append(`<label class="check-box Block" style="display:block"><input value="${val}" class="inputCheck TABinputCheck" type="checkbox"id="${id}" /><span>${ServiceItemsName}</span></label>`)
+                    }
+                }
+
+
+
+                // 將工作人員放入
+                for (let i = 0; i < EmployeesData.length; i++) {
+                    var id = EmployeesData[i].employeeId
+                    var EmployeesName = EmployeesData[i].employeeName
+                    // var sliceID = id.slice(-2)
+                    $("#TCserveReadyEmployees1").append(`<option value="${id}">${EmployeesName}</option>`)
+                    $("#TCserveReadyEmployees2").append(`<option value="${id}">${EmployeesName}</option>`)
+                    $("#TCserveReadyEmployees3").append(`<option value="${id}">${EmployeesName}</option>`)
+                    $("#TABserveReadyEmployees8").append(`<option value="${id}">${EmployeesName}</option>`)
+                    $("#TABserveReadyEmployees9").append(`<option value="${id}">${EmployeesName}</option>`)
+                    $("#TABserveReadyEmployees10").append(`<option value="${id}">${EmployeesName}</option>`)
+                }
+
+
+                // 選取TC按鈕申請服務
+                $(".TCinputCheck").on("change", function () {
+                    if ($(this).prop("checked")) {
+                        // 找所選的服務名稱
+                        // console.log($(this).siblings("span").prevObject[0].defaultValue)
+                        TCinputCheckNamePrice = $(this).siblings("span").prevObject[0].defaultValue
+                        TCinputCheckName = $(this).siblings("span")[0].childNodes[0].data
+                        // TCinputCheckName = $(this).siblings("span")[0].childNodes[0].childNodes[0].childNodes[0].data
+                        $("#ChoseTCServeDay").html(`請選擇申請服務天數(` + TCinputCheckName + `) : <select name="subject" id="TCselect1Id"><option value="1">1天</option><option value="2">2天</option><option value="3">3天</option><option value="4">4天</option><option value="5">5天</option><option value="6">6天</option><option value="7">7天</option><option value="8">8天</option><option value="9">9天</option><option value="10">10天</option><option value="11">11天</option><option value="12">12天</option><option value="13">13天</option><option value="14">14天</option></select>`)
+                        $('#TCserveDay1').dialog('open')
+                    }
+                });
+
+                // 選取TAB按鈕申請服務
+                $(".TABinputCheck").on("change", function () {
+                    if ($(this).prop("checked")) {
+                        // 找所選的服務名稱
+                        TABinputCheckNamePrice = $(this).siblings("span").prevObject[0].defaultValue
+                        TABinputCheckName = $(this).siblings("span")[0].childNodes[0].data
+                        // TABinputCheckName = $(this).siblings("span")[0].childNodes[0].childNodes[0].childNodes[0].data
+                        $("#ChoseTABServeDay").html(`請選擇申請服務天數(` + TABinputCheckName + `) : <select name="subject" id="TABselect1Id"><option value="1">1天</option><option value="2">2天</option><option value="3">3天</option><option value="4">4天</option><option value="5">5天</option><option value="6">6天</option><option value="7">7天</option><option value="8">8天</option><option value="9">9天</option><option value="10">10天</option><option value="11">11天</option><option value="12">12天</option><option value="13">13天</option><option value="14">14天</option></select>`)
+
+                        $('#TABserveDay1').dialog('open')
+
+                    }
+                });
+
+
+                // 政府TC補助上限
+                for (let i = 0; i < SubsidyLevelsData.length; i++) {
+                    if (SubsidyLevelsSelectVal == SubsidyLevelsData[i].level) {
+                        TCTotalMoney = SubsidyLevelsData[i].care
+                        $("#TCTotal").text(`政府補助上限:${TCTotalMoney}元/月`)
+                    }
+
+                }
+
+                // 政府TAB補助上限
+                for (let i = 0; i < SubsidyLevelsData.length; i++) {
+                    if (SubsidyLevelsSelectVal == SubsidyLevelsData[i].level) {
+                        TABTotalMoney = SubsidyLevelsData[i].respite
+                        $("#TABTotal").text(`政府補助上限:${TABTotalMoney}元/月`)
+                    }
+                }
+
+                // 初始錢
+                $("#TCSevrvePrice").text(`使用服務金額:0元/月`)
+                $("#TCServeSelf").text(`所需自負金額:0元/月`)
+                $("#TABSevrvePrice").text(`使用服務金額:0元/月`)
+                $("#TABServeSelf").text(`所需自負金額:0元/月`)
+            })
+
+
+        // Dialog
+        // 打開TC後輸入需求服務日期
+        $('#TCserveDay1').dialog({
+            autoOpen: false,
+            modal: true,
+        })
+
+        // 打開TAB後輸入需求服務日期
+        $('#TABserveDay1').dialog({
+            autoOpen: false,
+            modal: true,
+        })
+
+        // 預設服務人員val:01
+        var employeeeeeeeee = "1"
+        var employeeeeeeeeeTAB = "1"
+        // 服務人員改變
+        $("#TCserveReadyEmployees1").change(function () {
+            employeeeeeeeee = $("#TCserveReadyEmployees1 option:selected").val()
+        })
+        $("#TCserveReadyEmployees2").change(function () {
+            employeeeeeeeee = $("#TCserveReadyEmployees2 option:selected").val()
+        })
+        $("#TCserveReadyEmployees3").change(function () {
+            employeeeeeeeee = $("#TCserveReadyEmployees3 option:selected").val()
+        })
+
+        $("#TABserveReadyEmployees8").change(function () {
+            employeeeeeeeeeTAB = $("#TABserveReadyEmployees8 option:selected").val()
+        })
+        $("#TABserveReadyEmployees9").change(function () {
+            employeeeeeeeeeTAB = $("#TABserveReadyEmployees9 option:selected").val()
+        })
+        $("#TABserveReadyEmployees10").change(function () {
+            employeeeeeeeeeTAB = $("#TABserveReadyEmployees10 option:selected").val()
+        })
+
+        // 選好TC所需天數後點擊日期才開啟
+        $('#TCserveReady1').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $("#TCserveReady1").dialog('close');
+                    TCthe1 = TCthe1 - 1;
+                    console.log(TCthe1)
+                    if (TCthe1 == 0) {
+                        $('[id^="TCID"]').unbind("mouseenter");
+                        $('[id^="TCID"]').unbind("click");
+                        $('[id^="TCID"]').unbind("mouseleave");
+                        $('#TCID01').click(function () {
+                            $('#TCserveOK1').dialog('open');
+                        });
+                        $('#TCID02').click(function () {
+                            $('#TCserveOK2').dialog('open');
+                        });
+                        $('#TCID03').click(function () {
+                            $('#TCserveOK3').dialog('open');
+                        });
+                    }
+
+                    // 顯示金額
+                    TCAllPrice += parseInt(TCinputCheckNamePrice)
+                    var Selfpay = TCAllPrice * percentage / 100
+                    $("#TCSevrvePrice").text(`使用服務金額:${TCAllPrice}元/月`)
+                    $("#TCServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    console.log("服務日期")
+                    console.log(TCChoseDay)
+
+                    // 服務名稱
+                    console.log("服務名稱")
+                    console.log(TCinputCheckName)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeee)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TCserveReadyTime1 option:selected").val() + ":00:00"
+                    showTime = $("#TCserveReadyTime1 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TCinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TCAllServeName == "") {
+                        TCAllServeName = TCinputCheckName
+                    } else {
+                        TCAllServeName = TCAllServeName + ", " + TCinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TCinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeee),
+                        "amount": TCinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+                    // 資料放在檢視Dialog
+                    $("#TCserveOKName1").val(TCAllServeName)
+                    $("#TCserveOKDay1").val(showDay)
+                    showTime = parseInt(showTime)
+                    console.log(showTime)
+                    if (showTime <= 12) {
+                        $("#TCserveOKTime1").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TCserveOKTime1").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TCserveOKWho1").val(EmployeesData[i].employeeName)
+                    }
+
+                    $('#TCserveOK1').dialog('close')
+
+                    if ($("#TCserveOKName1").val() == "") {
+                        $("#TCID01").text("");
+                    }
+
+                },
+                取消: function () {
+                    $('#TCserveReady1').dialog("close");
+                    $('#TCserveOK1').dialog('close')
+                    $("#TCID01").text("");
+                }
+            }
+        })
+
+        $('#TCserveReady2').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $("#TCserveReady2").dialog('close');
+                    TCthe1 = TCthe1 - 1;
+                    console.log(TCthe1)
+                    if (TCthe1 == 0) {
+                        $('[id^="TCID"]').unbind("mouseenter");
+                        $('[id^="TCID"]').unbind("click");
+                        $('[id^="TCID"]').unbind("mouseleave");
+                        $('#TCID01').click(function () {
+                            $('#TCserveOK1').dialog('open');
+                        });
+                        $('#TCID02').click(function () {
+                            $('#TCserveOK2').dialog('open');
+                        });
+                        $('#TCID03').click(function () {
+                            $('#TCserveOK3').dialog('open');
+                        });
+                    }
+                    // 顯示金額
+                    TCAllPrice += parseInt(TCinputCheckNamePrice)
+                    var Selfpay = TCAllPrice * percentage / 100
+                    $("#TCSevrvePrice").text(`使用服務金額:${TCAllPrice}元/月`)
+                    $("#TCServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    console.log("服務日期")
+                    console.log(TCChoseDay)
+
+                    // 服務名稱
+                    console.log("服務名稱")
+                    console.log(TCinputCheckName)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeee)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TCserveReadyTime2 option:selected").val() + ":00:00"
+                    showTime = $("#TCserveReadyTime2 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TCinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TCAllServeName == "") {
+                        TCAllServeName = TCinputCheckName
+                    } else {
+                        TCAllServeName = TCAllServeName + ", " + TCinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TCinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeee),
+                        "amount": TCinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+
+                    // 資料放在檢視Dialog
+                    $("#TCserveOKName2").val(TCAllServeName)
+                    $("#TCserveOKDay2").val(showDay)
+                    if (showTime <= 12) {
+                        $("#TCserveOKTime2").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TCserveOKTime2").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TCserveOKWho2").val(EmployeesData[i].employeeName)
+                    }
+
+                    $('#TCserveOK2').dialog('close')
+
+                    if ($("#TCserveOKName2").val() == "") {
+                        $("#TCID02").text("");
+                    }
+                },
+                取消: function () {
+                    $('#TCserveReady2').dialog("close");
+                    $('#TCserveOK2').dialog('close')
+                    $("#TCID02").text("");
+                }
+            }
+        })
+
+        $('#TCserveReady3').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $("#TCserveReady3").dialog('close');
+                    TCthe1 = TCthe1 - 1;
+                    console.log(TCthe1)
+                    if (TCthe1 == 0) {
+                        $('[id^="TCID"]').unbind("mouseenter");
+                        $('[id^="TCID"]').unbind("click");
+                        $('[id^="TCID"]').unbind("mouseleave");
+                        $('#TCID01').click(function () {
+                            $('#TCserveOK1').dialog('open');
+                        });
+                        $('#TCID02').click(function () {
+                            $('#TCserveOK2').dialog('open');
+                        });
+                        $('#TCID03').click(function () {
+                            $('#TCserveOK3').dialog('open');
+                        });
+                    }
+
+                    // 顯示金額
+                    TCAllPrice += parseInt(TCinputCheckNamePrice)
+                    var Selfpay = TCAllPrice * percentage / 100
+                    $("#TCSevrvePrice").text(`使用服務金額:${TCAllPrice}元/月`)
+                    $("#TCServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    console.log("服務日期")
+                    console.log(TCChoseDay)
+
+                    // 服務名稱
+                    console.log("服務名稱")
+                    console.log(TCinputCheckName)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeee)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TCserveReadyTime3 option:selected").val() + ":00:00"
+                    showTime = $("#TCserveReadyTime3 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TCinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TCAllServeName == "") {
+                        TCAllServeName = TCinputCheckName
+                    } else {
+                        TCAllServeName = TCAllServeName + ", " + TCinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TCinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeee),
+                        "amount": TCinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+                    // 資料放在檢視Dialog
+                    $("#TCserveOKName3").val(TCAllServeName)
+                    $("#TCserveOKDay3").val(showDay)
+                    if (showTime <= 12) {
+                        $("#TCserveOKTime3").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TCserveOKTime3").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TCserveOKWho3").val(EmployeesData[i].employeeName)
+                    }
+
+                    $('#TCserveOK3').dialog('close')
+
+                    if ($("#TCserveOKName3").val() == "") {
+                        $("#TCID03").text("");
+                    }
+                },
+                取消: function () {
+                    $('#TCserveReady3').dialog("close");
+                    $('#TCserveOK3').dialog('close')
+                    $("#TCID03").text("");
+                }
+            }
+        })
+
+
+        // 選好TAB所需天數後點擊才開啟
+        $('#TABserveReady8').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    console.log(this);
+                    $("#TABserveReady8").dialog('close');
+                    TABthe1 = TABthe1 - 1;
+                    console.log(TABthe1)
+                    if (TABthe1 == 0) {
+                        $('[id^="TABID"]').unbind("mouseenter");
+                        $('[id^="TABID"]').unbind("click");
+                        $('[id^="TABID"]').unbind("mouseleave");
+                        $('#TABID08').click(function () {
+                            $('#TABserveOK8').dialog('open');
+                        });
+                        $('#TABID09').click(function () {
+                            $('#TABserveOK9').dialog('open');
+                        });
+                        $('#TABID10').click(function () {
+                            $('#TABserveOK10').dialog('open');
+                        });
+                    }
+
+                    // 顯示金額
+                    TABAllPrice += parseInt(TABinputCheckNamePrice)
+                    var Selfpay = TABAllPrice * percentage / 100
+                    $("#TABSevrvePrice").text(`使用服務金額:${TABAllPrice}元/月`)
+                    $("#TABServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeeeTAB)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TABserveReadyTime8 option:selected").val() + ":00:00"
+                    showTime = $("#TABserveReadyTime8 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TABinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TABAllServeName == "") {
+                        TABAllServeName = TABinputCheckName
+                    } else {
+                        TABAllServeName = TABAllServeName + ", " + TABinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TABinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeeeTAB),
+                        "amount": TABinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+                    // 資料放在檢視Dialog
+                    $("#TABserveOKName8").val(TABAllServeName)
+                    $("#TABserveOKDay8").val(showDay)
+                    if (showTime <= 12) {
+                        $("#TABserveOKTime8").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TABserveOKTime8").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TABserveOKWho8").val(EmployeesData[i].employeeName)
+                    }
+
+
+                    $('#TABserveOK8').dialog('close')
+
+                    if ($("#TABserveOKName8").val() == "") {
+                        $("#TABID08").text("");
+                    }
+                },
+                取消: function () {
+                    $('#TABserveReady1').dialog("close");
+                    $('#TABserveOK8').dialog('close')
+                    $("#TABID08").text("");
+                }
+            }
+        })
+
+        $('#TABserveReady9').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    console.log(this);
+                    $("#TABserveReady9").dialog('close');
+                    TABthe1 = TABthe1 - 1;
+                    console.log(TABthe1)
+                    if (TABthe1 == 0) {
+                        $('[id^="TABID"]').unbind("mouseenter");
+                        $('[id^="TABID"]').unbind("click");
+                        $('[id^="TABID"]').unbind("mouseleave");
+                        $('#TABID08').click(function () {
+                            $('#TABserveOK8').dialog('open');
+                        });
+                        $('#TABID09').click(function () {
+                            $('#TABserveOK9').dialog('open');
+                        });
+                        $('#TABID10').click(function () {
+                            $('#TABserveOK10').dialog('open');
+                        });
+                    }
+
+                    // 顯示金額
+                    TABAllPrice += parseInt(TABinputCheckNamePrice)
+                    var Selfpay = TABAllPrice * percentage / 100
+                    $("#TABSevrvePrice").text(`使用服務金額:${TABAllPrice}元/月`)
+                    $("#TABServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeeeTAB)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TABserveReadyTime9 option:selected").val() + ":00:00"
+                    showTime = $("#TABserveReadyTime9 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TABinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TABAllServeName == "") {
+                        TABAllServeName = TABinputCheckName
+                    } else {
+                        TABAllServeName = TABAllServeName + ", " + TABinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TABinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeeeTAB),
+                        "amount": TABinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+                    // 資料放在檢視Dialog
+                    $("#TABserveOKName9").val(TABAllServeName)
+                    $("#TABserveOKDay9").val(showDay)
+                    if (showTime <= 12) {
+                        $("#TABserveOKTime9").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TABserveOKTime9").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TABserveOKWho9").val(EmployeesData[i].employeeName)
+                    }
+
+
+                    $('#TABserveOK9').dialog('close');
+
+                    if ($("#TABserveOKName9").val() == "") {
+                        $("#TABID09").text("");
+                    }
+                },
+                取消: function () {
+                    $('#TABserveReady9').dialog("close");
+                    $('#TABserveOK9').dialog('close');
+                    $("#TABID09").text("");
+                }
+            }
+        })
+
+        $('#TABserveReady10').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    console.log(this);
+                    $("#TABserveReady10").dialog('close');
+                    TABthe1 = TABthe1 - 1;
+                    console.log(TABthe1)
+                    if (TABthe1 == 0) {
+                        $('[id^="TABID"]').unbind("mouseenter");
+                        $('[id^="TABID"]').unbind("click");
+                        $('[id^="TABID"]').unbind("mouseleave");
+                        $('#TABID08').click(function () {
+                            $('#TABserveOK8').dialog('open');
+                        });
+                        $('#TABID09').click(function () {
+                            $('#TABserveOK9').dialog('open');
+                        });
+                        $('#TABID10').click(function () {
+                            $('#TABserveOK10').dialog('open');
+                        });
+                    }
+
+                    // 顯示金額
+                    TABAllPrice += parseInt(TABinputCheckNamePrice)
+                    var Selfpay = TABAllPrice * percentage / 100
+                    $("#TABSevrvePrice").text(`使用服務金額:${TABAllPrice}元/月`)
+                    $("#TABServeSelf").text(`所需自負金額:${Selfpay}元/月`)
+
+                    // 服務人員ID
+                    console.log("服務人員ID")
+                    console.log(employeeeeeeeeeTAB)
+
+                    var ServeDayTime = ""
+
+                    // 服務日期時間
+                    ServeDayTime = TCChoseDay + $("#TABserveReadyTime10 option:selected").val() + ":00:00"
+                    showTime = $("#TABserveReadyTime10 option:selected").val()
+                    console.log("服務日期時間")
+                    console.log(ServeDayTime)
+
+                    // 服務價格
+                    console.log("服務價格")
+                    console.log(TABinputCheckNamePrice)
+
+                    // CMS等級
+                    console.log("CMS等級")
+                    console.log($("#SubsidyLevelsSelect").val())
+
+                    // 總服務名
+                    if (TABAllServeName == "") {
+                        TABAllServeName = TABinputCheckName
+                    } else {
+                        TABAllServeName = TABAllServeName + ", " + TABinputCheckName
+                    }
+
+
+                    // PutCase回傳Case
+                    PutCaseItem = {
+                        "employerId": parseInt(WhoID),
+                        "serviceName": TABinputCheckName,
+                        "startDateTime": ServeDayTime,
+                        "employeeId": parseInt(employeeeeeeeeeTAB),
+                        "amount": TABinputCheckNamePrice,
+                        "paymentStatus": false,
+                        "caseStatus": false
+                    }
+
+                    // 存在session storage
+                    sessionItem.push(PutCaseItem)
+                    console.log(sessionItem)
+                    sessionStorage.setItem("Item", sessionItem)
+
+                    // 資料放在檢視Dialog
+                    $("#TABserveOKName10").val(TABAllServeName)
+                    $("#TABserveOKDay10").val(showDay)
+                    if (showTime <= 12) {
+                        $("#TABserveOKTime10").val(`上午${showTime}點`)
+                    } else {
+                        showTime = showTime - 12
+                        $("#TABserveOKTime10").val(`下午${showTime}點`)
+                    }
+                    for (let i = 0; i < EmployeesData.length; i++) {
+                        if (employeeeeeeeee == EmployeesData[i].employeeId)
+                            $("#TABserveOKWho10").val(EmployeesData[i].employeeName)
+                    }
+
+
+                    $('#TABserveOK10').dialog('close');
+
+                    if ($("#TABserveOKName10").val() == "") {
+                        $("#TABID010").text("");
+                    }
+                },
+                取消: function () {
+                    $('#TABserveReady10').dialog("close");
+                    $('#TABserveOK10').dialog('close');
+                    $("#TABID010").text("");
+                }
+            }
+        })
+
+
+        // 申請TC確認後
+        $("#TCserveDay1OK").click(function () {
+            TCthe1 = parseInt($("#TCselect1Id option:selected").text())
+            console.log(TCthe1)
+
+
+            // 加入hover
+            if (TCthe1 > 0) {
+                $('[id^="TCID"]').mouseenter(function () {
+                    $(this).css('background-color', 'rgb(246, 234, 224)');
+                })
+
+                $("#TCID01").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TCDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TCinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TCserveReadyName1").val() == "") {
+                        $("#TCserveReadyName1").val(TCinputCheckName)
+                    }
+                    else {
+                        $("#TCserveReadyName1").val(TCinputCheckName + ", " + $("#TCserveReadyName1").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+                    // 打開服務選擇時間
+                    $("#TCserveReady1").dialog('open');
+
+                    // 能抓到 但是是進入dialog前就更改 不是經dialog確認判斷後才更改
+                    console.log($("#TCserveReadyName1").val())
+
+                    $(this).text("有服務");
+
+                })
+
+                $("#TCID02").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TCDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TCinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TCserveReadyName2").val() == "") {
+                        $("#TCserveReadyName2").val(TCinputCheckName)
+                    }
+                    else {
+                        $("#TCserveReadyName2").val(TCinputCheckName + ", " + $("#TCserveReadyName2").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TCserveReadyDay2").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+                    // 打開服務選擇時間
+                    $("#TCserveReady2").dialog('open');
+
+                    // 能抓到 但是是進入dialog前就更改 不是經dialog確認判斷後才更改
+                    $(this).text("有服務");
+
+                })
+
+                $("#TCID03").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TCDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TCinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TCserveReadyName3").val() == "") {
+                        $("#TCserveReadyName3").val(TCinputCheckName)
+                    }
+                    else {
+                        $("#TCserveReadyName3").val(TCinputCheckName + ", " + $("#TCserveReadyName3").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TCserveReadyDay3").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+                    // 打開服務選擇時間
+                    $("#TCserveReady3").dialog('open');
+
+                    // 能抓到 但是是進入dialog前就更改 不是經dialog確認判斷後才更改
+                    $(this).text("有服務");
+
+                })
+
+                $('[id^="TCID"]').mouseleave(function () {
+                    $(this).css('background-color', '#E0FBFB');
+                })
+            }
+
+            $('#TCserveDay1').dialog('close')
+        })
+
+        // 申請TAB確認後
+        $("#TABserveDay1OK").click(function () {
+            TABthe1 = parseInt($("#TABselect1Id option:selected").text())
+            console.log(TABthe1)
+
+            // 加入hover
+            if (TABthe1 > 0) {
+                $('[id^="TABID"]').mouseenter(function () {
+                    $(this).css('background-color', 'rgb(246, 234, 224)');
+                })
+
+                $("#TABID08").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TABDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TABinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TABserveReadyName8").val() == "") {
+                        $("#TABserveReadyName8").val(TABinputCheckName)
+                    }
+                    else {
+                        $("#TABserveReadyName8").val(TABinputCheckName + ", " + $("#TABserveReadyName8").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TABserveReadyDay8").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+
+                    $("#TABserveReady8").dialog('open');
+
+                    $(this).text("有服務");
+
+
+                })
+
+                $("#TABID09").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TABDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TABinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TABserveReadyName9").val() == "") {
+                        $("#TABserveReadyName9").val(TABinputCheckName)
+                    }
+                    else {
+                        $("#TABserveReadyName9").val(TABinputCheckName + ", " + $("#TABserveReadyName9").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TABserveReadyDay9").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+
+                    $("#TABserveReady9").dialog('open');
+
+
+                    $(this).text("有服務");
+
+
+                })
+
+                $("#TABID10").click(function () {
+                    // 選好服務後點擊需求日期找日期的ID
+                    var TCDay = "TABDAY"
+                    var Serve = ""
+                    Serve = (this.id).slice(-2)
+                    var ServerDay = TCDay + Serve
+
+                    // 增加input服務名
+
+                    // console.log(typeof ($("#TCserveReadyName").val()))
+                    // 加入服務項目
+                    // for (let i = 0; i < ServiceItemsData.length; i++) {
+                    //     if (TABinputCheckName == ServiceItemsData[i].serviceName) {
+
+                    if ($("#TABserveReadyName10").val() == "") {
+                        $("#TABserveReadyName10").val(TABinputCheckName)
+                    }
+                    else {
+                        $("#TABserveReadyName10").val(TABinputCheckName + ", " + $("#TABserveReadyName10").val())
+                    }
+                    //     }
+                    // }
+
+                    // 加入日期
+                    $("#TABserveReadyDay10").val($(`#${ServerDay}`)[0].childNodes[0].data)
+                    // $("#TCserveReadyDay1").val($(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data)
+
+                    // 服務日期的文字
+                    TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].data
+                    // TCChoseDay = $(`#${ServerDay}`)[0].childNodes[0].childNodes[0].childNodes[0].data
+                    showDay = TCChoseDay
+                    month = TCChoseDay.slice(0, 2)
+                    day = TCChoseDay.slice(0, -1).slice(3)
+                    if (day.length == 1) {
+                        day = "0" + day
+                    }
+
+                    TCChoseDay = `2023-${month}-${day}T`
+                    console.log(TCChoseDay)
+
+
+                    $("#TABserveReady10").dialog('open');
+
+                    $(this).text("有服務");
+
+
+                })
+
+                $('[id^="TABID"]').mouseleave(function () {
+                    $(this).css('background-color', '#C4E1E1');
+                })
+            }
+
+            $('#TABserveDay1').dialog('close')
+        })
+
+
+        // TC申請取消
+        $("#TCserveDay1NO").click(function () {
+            $('#TCserveDay1').dialog('close')
+        })
+
+        // TAB申請取消
+        $("#TABserveDay1NO").click(function () {
+            $('#TABserveDay1').dialog('close')
+        })
+
+
+
+        // 清空所有服務按鈕
+        $("#allClear").click(function () {
+            $('#askYN').dialog('open');
+
+        })
+
+
+        // 確認刪除服務
+        $('#askYN').dialog({
+            autoOpen: false,
+            modal: true,
+            buttons: {
+                確認: function () {
+                    $('#askYN').dialog('close');
+                    $('[id^="TCID"]').text("");
+                    $('[id^="TABID"]').text("");
+                    $(".TCinputCheck").prop('checked', false);
+                    $(".TABinputCheck").prop('checked', false);
+                    sessionStorage.clear()
+                    $("#TCSevrvePrice").text(`使用服務金額:0元/月`)
+                    $("#TCServeSelf").text(`所需自負金額:0元/月`)
+                    $("#TABSevrvePrice").text(`使用服務金額:0元/月`)
+                    $("#TABServeSelf").text(`所需自負金額:0元/月`)
+
+
+                },
+                取消: function () {
+                    $('#askYN').dialog('close')
+                }
+            }
+        })
+
+
+        // 檢視申請好的照顧及專業服務
+        $('#TCID01').click(function () {
+            $('#TCserveOK1').dialog('open')
+        })
+
+        $('#TCserveOK1').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TCserveOK1').dialog('close')
+                }
+            }
+        })
+
+        $('#TCID02').click(function () {
+            $('#TCserveOK2').dialog('open')
+        })
+
+        $('#TCserveOK2').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TCserveOK2').dialog('close')
+                }
+            }
+        })
+
+        $('#TCID03').click(function () {
+            $('#TCserveOK3').dialog('open')
+        })
+
+        $('#TCserveOK3').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TCserveOK3').dialog('close')
+                }
+            }
+        })
+
+        // 檢視申請好的喘息服務
+        $('#TABID08').click(function () {
+            $('#TABserveOK8').dialog('open')
+        })
+
+        $('#TABserveOK8').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TABserveOK8').dialog('close')
+                }
+            }
+        })
+
+        $('#TABID09').click(function () {
+            $('#TABserveOK9').dialog('open')
+        })
+
+        $('#TABserveOK9').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TABserveOK9').dialog('close')
+                }
+            }
+        })
+
+        $('#TABID10').click(function () {
+            $('#TABserveOK10').dialog('open')
+        })
+
+        $('#TABserveOK10').dialog({
+            autoOpen: false,
+            modal: true,
+            width: 318,
+            height: 500,
+            buttons: {
+                確認: function () {
+                    $('#TABserveOK10').dialog('close')
+                }
+            }
+        })
+
+        // 傳出sessionStorage
+        $("#allOK").click(function () {
+
+            var test = {
+                "employerId": 5,
+                "serviceName": "基本身體清潔(日)",
+                "startDateTime": "2023-10-25T09:00:00",
+                "employeeId": 5,
+                "amount": 260,
+                "paymentStatus": false,
+                "caseStatus": false
+            }
+
+
+
+            // for (let i = 0; i < sessionItem.length; i++) {
+            //     var element = sessionItem[i]
+            //     console.log(element)
+
+            // }
+            sessionItem.forEach(element => {
+                $.ajax({
+                    type: "POST",
+                    url: "https://localhost:7036/api/cases",
+                    data: JSON.stringify(element),
+                    contentType: "application/json",
+                    dataType: "json",
+                    success: (response) => {
+                        console.log("OK")
+                    },
+                    error: (error) => {
+                        console.error("NO", error)
+                    }
+                })
+
+            });
+
+            window.location.href = '/CsMember/CsRecord';
+
+
+
+        })
+
+        // 日期
+        // 獲取當前日期
+        var currentDate = new Date();
+        var TCsDay = $(".TCsetDay");
+        var TABsDay = $(".TABsetDay");
+
+
+        // 計算兩周後的日期
+        var twoWeeksLater = new Date(currentDate);
+        twoWeeksLater.setDate(currentDate.getDate()-7);
+
+        // 找到兩周後的第一個星期日
+        while (twoWeeksLater.getDay() !== 0) {
+            twoWeeksLater.setDate(twoWeeksLater.getDate() + 1);
+        }
+
+
+        // 循環創建接下来的14天
+        for (var i = 0; i < 14; i++) {
+            var dayString = (twoWeeksLater.getMonth() + 1) + '月' + twoWeeksLater.getDate() + '日';
+
+            // 建立日曆並加入Div
+            TCsDay[i].innerHTML = dayString
+            TABsDay[i].innerHTML = dayString
+
+            // 增加一天
+            twoWeeksLater.setDate(twoWeeksLater.getDate() + 1);
+        }
+
+
+    })
+
+
+
+    // 分頁
+    function openCity(evt, cityName1, cityName2) {
+        var i, tabcontent, tablinks, tabcontentDiv;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        tabcontentDiv = document.getElementsByClassName("tabcontentDiv");
+
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        for (i = 0; i < tabcontentDiv.length; i++) {
+            tabcontentDiv[i].style.display = "none";
+        }
+
+        tablinks = document.getElementsByClassName("tablinks");
+
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className1 = tablinks[i].className.replace(" active", "");
+        }
+
+        document.getElementById(cityName1).style.display = "block";
+        document.getElementById(cityName2).style.display = "block";
+
+        evt.currentTarget.className1 += " active";
+    }
+
+
+
+</script>
